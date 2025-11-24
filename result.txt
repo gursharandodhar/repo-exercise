@@ -1,0 +1,2 @@
+This is the result file for the exercise.
+Created on: $(date)
